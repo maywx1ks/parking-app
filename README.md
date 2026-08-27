@@ -61,6 +61,9 @@ Kamera muszi wykryć samochód. Następnie go numer. Złapanie na które miejsce
 
 
 Wygląd: 
+https://www.figma.com/board/QTf6EXzLwUsUHnzM9j9nfG/plan-parking?t=LPDDbDKA48CEB9if-6
+https://www.figma.com/design/wAoru9nATrqZ6fIp9fhnbL/parking-app?node-id=0-1&t=184tLAITmYMnjAbL-1
+
 
 
 
