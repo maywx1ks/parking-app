@@ -16,10 +16,12 @@ Mamy jedną na wjezdzie drugą na wyjezdzie. Zakładamy ze oba wjazdy są jednoc
 //Załóżmy ze mamy odliczoną ilość miejsc na parkingu. Każde miejsce jest oznaczone liniami. ale auta stali nie obok siebie a np rzez jesno miejsce | W | W | W | S | W | S | W | W | W | (S - samochód, W - miejsce wolne).
 
 //Załózmy że kamera nie złapała całego numeru reestracyjnego (np. GS820 a nie GS8204G). 
---Możemy spróbować zweryfikować numer za pomocą parkometru, jeżeli na danym parkingu będzie on dostępny. Użytkownik wpisuje numer rejestracyjny podczas kupowania biletu na parkometrze. System może wtedy porównać numer odczytany przez kamerę z numerem wpisanym przez użytkownika.
+--System może wykorzystywać dane z parkometru jako dodatkowe źródło informacji w przypadku niepełnego lub niepewnego odczytu numeru rejestracyjnego.
 I takim sposobem w sumie możemy też sprawdzać ile osób kupuje bilety(latwiej dla pani sprawdzającej) i o której godzinie. Ona będzie odrazu wiedziała które to auto, za ile minut po wjechaniu kupił ten bilet oraz ewentualnie za jaki czas ma tam pójść.
 
 Przy wyjezdzie zparkingu kamera tak samo sczytuje numer oraz miejsce do którego trn samochód jest przypisany. status miejsca się zmienia na "Wolny"
+
+//Mamy jeden pas dla wjazdu drugi do wyjazdu. Kiedy ona reestruje że samochód wjechał i tak musi poczekać aż wjedzie na któreś miejsce
 
 Baza:
 Co ma się znajdować:
